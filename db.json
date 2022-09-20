@@ -4,6 +4,6 @@
     "online": { "boolean": {} },
     "picture": { "regexp": "https://…" },
     "Url":"https://www.baidu.com",
-  "isToUrl":false
+  "isToUrl":true
   }
 }
